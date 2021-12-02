@@ -21,16 +21,16 @@ export const LeftSection = styled.div`
 
 
 export const ImgAvatar = styled.img`
-  width:50%;
-  height:50%;
+  width:25%;
+  height:25%;
   border-radius: 50%;
   object-fit: cover;
   overflow: hidden;
 
   @media ${(props) => props.theme.breakpoints.md} {
-  width:40%;
-  height:40%;
-  border-radius: 25%;
+  width:50%;
+  height:50%;
+  /* border-radius: 25%; */
   object-fit: cover;
   overflow: hidden;
   }
