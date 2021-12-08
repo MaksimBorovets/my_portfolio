@@ -24,7 +24,16 @@ export const projects = [
     tags: ['React', 'JavaScript'],
     source: 'https://kind-haibt-f0b03b.netlify.app/',
     visit: 'https://kind-haibt-f0b03b.netlify.app/',
-    id: 1,
+    id: 2,
+  },
+  {
+    title: 'Yarmolkina',
+    description:"Визитка фотографа",
+    image: '/images/4.png',
+    tags: ['React', 'JavaScript'],
+    source: 'https://upbeat-swartz-a53439.netlify.app',
+    visit: 'https://upbeat-swartz-a53439.netlify.app',
+    id: 3,
   },
 
 ];
